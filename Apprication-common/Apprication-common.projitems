@@ -11,7 +11,4 @@
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)MyClass.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="$(MSBuildThisFileDirectory)privacy_policy_ja.md" />
-  </ItemGroup>
 </Project>
